@@ -1,0 +1,17 @@
+E:\c#\Snake\Snake\bin\Debug\net5.0\Snake.exe
+E:\c#\Snake\Snake\bin\Debug\net5.0\Snake.deps.json
+E:\c#\Snake\Snake\bin\Debug\net5.0\Snake.runtimeconfig.json
+E:\c#\Snake\Snake\bin\Debug\net5.0\Snake.runtimeconfig.dev.json
+E:\c#\Snake\Snake\bin\Debug\net5.0\Snake.dll
+E:\c#\Snake\Snake\bin\Debug\net5.0\ref\Snake.dll
+E:\c#\Snake\Snake\bin\Debug\net5.0\Snake.pdb
+E:\c#\Snake\Snake\obj\Debug\net5.0\Snake.csproj.AssemblyReference.cache
+E:\c#\Snake\Snake\obj\Debug\net5.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Snake\Snake\obj\Debug\net5.0\Snake.AssemblyInfoInputs.cache
+E:\c#\Snake\Snake\obj\Debug\net5.0\Snake.AssemblyInfo.cs
+E:\c#\Snake\Snake\obj\Debug\net5.0\Snake.csproj.CoreCompileInputs.cache
+E:\c#\Snake\Snake\obj\Debug\net5.0\Snake.dll
+E:\c#\Snake\Snake\obj\Debug\net5.0\ref\Snake.dll
+E:\c#\Snake\Snake\obj\Debug\net5.0\Snake.pdb
+E:\c#\Snake\Snake\obj\Debug\net5.0\Snake.genruntimeconfig.cache
+E:\c#\Snake\Snake\bin\Debug\net5.0\Levels\level1.txt
